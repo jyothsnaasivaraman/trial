@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
+I am a postdoc at the University of Toronto, Canada, working under Prof. V. Kumar Murty. I did my PhD at the Institute of Mathematical Sciences, Chennai, India, under the supervision of Prof. Sanoli Gun.
 
-You can use the [editor on GitHub](https://github.com/jyothsnaasivaraman/trial/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
